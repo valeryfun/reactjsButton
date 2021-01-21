@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <h1>reactJS Button</h1>
-      {counter == 3 ? (
+      {counter === 3 ? (
         <div>
           <h2>hello!</h2>
         </div>
